@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lambpati
 - 👀 I’m interested in nuclear engineering and computer science
-- 🌱 I’m currently learning anything I ca
+- 🌱 I’m currently learning anything I can
 - 💞️ I’m looking to collaborate on nuclear engineering projects
 - 📫 How to reach me: lambpati@isu.edu
 
